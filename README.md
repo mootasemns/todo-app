@@ -2,8 +2,6 @@
 
 A simple and elegant Todo List application built with React. This app allows you to manage your tasks effectively while providing options for theme customization.
 
-![Todo List Screenshot](https://via.placeholder.com/600x400) <!-- Replace with an actual screenshot of your app -->
-
 ## Features
 
 - **Add, Delete, and Complete Tasks**: Manage your tasks with ease.
@@ -16,26 +14,6 @@ A simple and elegant Todo List application built with React. This app allows you
 - FontAwesome for icons
 - CSS for styling
 - localStorage for persistent data storage
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/todo-app.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd todo-app
-   ```
-3. Install the required dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the application:
-   ```bash
-   npm start
-   ```
-   The app will be running on [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
@@ -51,10 +29,6 @@ Contributions are welcome! If you have suggestions for improvements or features,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- [Your Name](https://github.com/yourusername) - Your GitHub profile
 
 ## Acknowledgements
 
